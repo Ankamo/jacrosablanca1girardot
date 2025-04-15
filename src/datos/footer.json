@@ -1,0 +1,58 @@
+{
+    "enlacesRapidos": [
+        {
+            "texto": "Términos y Condiciones",
+            "href": "/terminos"
+        },
+        {
+            "texto": "Política de Privacidad",
+            "href": "/privacidad"
+        },
+        {
+            "texto": "Sobre el Mercado Comunitario",
+            "href": "/mercado"
+        },
+        {
+            "texto": "Sobre la Corporación",
+            "href": "/corporacion"
+        },
+        {
+            "texto": "Contacto",
+            "href": "/contacto"
+        }
+    ],
+    "contacto": {
+        "email": "corporacionmercogirardot@gmail.com",
+        "telefono": "(304) 347 0984",
+        "direccion1": "Diagonal 33 con Carrera 12 A Esquina",
+        "direccion2": "Barrio Rosa Blanca 1er sector",
+        "ciudad": "Girardot - Cundinamarca"
+    },
+    "redes": [
+        {
+            "nombre": "WhatsApp",
+            "icono": "FaWhatsapp"
+        },
+        {
+            "nombre": "Facebook",
+            "icono": "Facebook"
+        },
+        {
+            "nombre": "Instagram",
+            "icono": "Instagram"
+        },
+        {
+            "nombre": "X",
+            "icono": "FaXTwitter"
+        },
+        {
+            "nombre": "Youtube",
+            "icono": "Youtube"
+        }
+    ],
+    "creditos": {
+        "desarrollador": "NextCode-Labs",
+        "administrador": "Corporación Mercado Comunitario Girardot",
+        "copyright": "Mercogir. Todos los derechos reservados."
+    }
+}

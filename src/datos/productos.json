@@ -1,0 +1,169 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Miel Natural",
+        "descripcion": "Frasco de 500ml de miel 100% pura.",
+        "precio": 18000,
+        "descuento": 10,
+        "precioConDescuento": 16200,
+        "imagen": "/logo.webp",
+        "local": 101,
+        "vivanderos": "Apicultores Unidos"
+      },
+      {
+        "id": 2,
+        "nombre": "Café Orgánico",
+        "descripcion": "Café molido de la región.",
+        "precio": 15000,
+        "descuento": 10,
+        "precioConDescuento": 13000,
+        "imagen": "/logo.webp",
+        "local": 102,
+        "vivanderos": "Cafeteros del Sur"
+      },
+      {
+        "id": 3,
+        "nombre": "Artesanía en Madera",
+        "descripcion": "Figura tallada a mano.",
+        "precio": 25000,
+        "descuento": 20,
+        "precioConDescuento": 20000,
+        "imagen": "/logo.webp",
+        "local": 103,
+        "vivanderos": "Artesanos del Bosque"
+      },
+      {
+        "id": 4,
+        "nombre": "Artesanía en Madera",
+        "descripcion": "Figura tallada a mano.",
+        "precio": 25000,
+        "descuento": 20,
+        "precioConDescuento": 20000,
+        "imagen": "/logo.webp",
+        "local": 103,
+        "vivanderos": "Artesanos del Bosque"
+      },
+      {
+        "id": 5,
+        "nombre": "Artesanía en Madera",
+        "descripcion": "Figura tallada a mano.",
+        "precio": 25000,
+        "descuento": 20,
+        "precioConDescuento": 20000,
+        "imagen": "/logo.webp",
+        "local": 103,
+        "vivanderos": "Artesanos del Bosque"
+      },
+      {
+        "id": 6,
+        "nombre": "Jabón Artesanal",
+        "descripcion": "Jabón hecho a mano con ingredientes naturales.",
+        "precio": 8000,
+        "descuento": 5,
+        "precioConDescuento": 7600,
+        "imagen": "/logo.webp",
+        "local": 104,
+        "vivanderos": "Natural Care"
+      },
+      {
+        "id": 7,
+        "nombre": "Queso Campesino",
+        "descripcion": "Queso fresco producido localmente.",
+        "precio": 12000,
+        "descuento": 0,
+        "precioConDescuento": 12000,
+        "imagen": "/logo.webp",
+        "local": 105,
+        "vivanderos": "Lácteos del Campo"
+      },
+      {
+        "id": 8,
+        "nombre": "Pan Integral",
+        "descripcion": "Pan artesanal con semillas.",
+        "precio": 6000,
+        "descuento": 10,
+        "precioConDescuento": 5400,
+        "imagen": "/logo.webp",
+        "local": 106,
+        "vivanderos": "Panadería Saludable"
+      },
+      {
+        "id": 9,
+        "nombre": "Mermelada de Fresa",
+        "descripcion": "Mermelada casera sin conservantes.",
+        "precio": 10000,
+        "descuento": 15,
+        "precioConDescuento": 8500,
+        "imagen": "/logo.webp",
+        "local": 107,
+        "vivanderos": "Delicias Caseras"
+      },
+      {
+        "id": 10,
+        "nombre": "Frutas Deshidratadas",
+        "descripcion": "Mezcla de frutas deshidratadas.",
+        "precio": 15000,
+        "descuento": 10,
+        "precioConDescuento": 13500,
+        "imagen": "/logo.webp",
+        "local": 108,
+        "vivanderos": "Frutos Secos Gourmet"
+      },
+      {
+        "id": 11,
+        "nombre": "Aceite de Coco",
+        "descripcion": "Aceite de coco orgánico.",
+        "precio": 20000,
+        "descuento": 5,
+        "precioConDescuento": 19000,
+        "imagen": "/logo.webp",
+        "local": 109,
+        "vivanderos": "Vivanderos"
+      },
+      {
+        "id": 12,
+        "nombre": "Velas Aromáticas",
+        "descripcion": "Velas hechas a mano con esencias naturales.",
+        "precio": 10000,
+        "descuento": 10,
+        "precioConDescuento": 9000,
+        "imagen": "/logo.webp",
+        "local": 110,
+        "vivanderos": "Vivanderos"
+      },
+      {
+        "id": 13,
+        "nombre": "Té de Hierbas",
+        "descripcion": "Infusión de hierbas naturales.",
+        "precio": 7000,
+        "descuento": 0,
+        "precioConDescuento": 7000,
+        "imagen": "/logo.webp",
+        "local": 111,
+        "vivanderos": "Hierbas del Valle"
+      },
+      {
+        "id": 14,
+        "nombre": "Chocolate Artesanal",
+        "descripcion": "Chocolate oscuro hecho a mano.",
+        "precio": 12000,
+        "descuento": 10,
+        "precioConDescuento": 10800,
+        "imagen": "/logo.webp",
+        "local": 112,
+        "vivanderos": "Chocolatería Fina"
+      },
+      {
+        "id": 15,
+        "nombre": "Bolso de Yute",
+        "descripcion": "Bolso ecológico hecho de yute.",
+        "precio": 25000,
+        "descuento": 15,
+        "precioConDescuento": 21250,
+        "imagen": "/logo.webp",
+        "local": 113,
+        "vivanderos": "Eco Bolsos"
+      }
+    ]
+  }
